@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2b541ea773ac1eef62a1a0c5c4c0a72",
+    "revision": "53000543fa93ea8803f002b330c2a085",
     "url": "/watchnet-project/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/watchnet-project/static/js/2.abbd717b.chunk.js"
   },
   {
-    "revision": "ce77aef56fffa8f3b180",
-    "url": "/watchnet-project/static/js/main.03270036.chunk.js"
+    "revision": "a8e9ab651a94b06ddd6d",
+    "url": "/watchnet-project/static/js/main.bcb5f3e5.chunk.js"
   },
   {
     "revision": "2ee6ce4be406aa2c183a",
