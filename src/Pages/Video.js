@@ -183,7 +183,7 @@ export class Video extends React.Component {
                                         </Row>
                                         <Row>
                                             <Col md="12">
-                                                <Button type="submit" size="small" color="primary" variant="contained" className="setButColor" >
+                                                <Button type="button" size="small" color="primary" variant="contained" className="setButColor" >
                                                     Invia
                                             </Button>
                                             </Col>

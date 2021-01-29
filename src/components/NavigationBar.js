@@ -192,8 +192,8 @@ export class NavBar extends React.Component {
     return (
       <Styles>
         <Navbar expand="md" fixed="top">
-          <NavbarBrand href="/">
-            <img src='./assets/logo.svg' height="20rem" alt=""/>
+          <NavbarBrand >
+          <Link to="/"><img src='./assets/logo.svg' height="20rem" alt=""/></Link>            
           </NavbarBrand>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>

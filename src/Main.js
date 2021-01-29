@@ -40,7 +40,7 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <Disclaimer />
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop>
           <NavBar />
           <Layout>
