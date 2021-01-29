@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/watchnet-project/static/js/main.5e472485.chunk.js",
-    "main.js.map": "/watchnet-project/static/js/main.5e472485.chunk.js.map",
+    "main.js": "/watchnet-project/static/js/main.03270036.chunk.js",
+    "main.js.map": "/watchnet-project/static/js/main.03270036.chunk.js.map",
     "runtime~main.js": "/watchnet-project/static/js/runtime~main.d3232275.js",
     "runtime~main.js.map": "/watchnet-project/static/js/runtime~main.d3232275.js.map",
     "static/css/2.266e55a5.chunk.css": "/watchnet-project/static/css/2.266e55a5.chunk.css",
-    "static/js/2.c743f95d.chunk.js": "/watchnet-project/static/js/2.c743f95d.chunk.js",
-    "static/js/2.c743f95d.chunk.js.map": "/watchnet-project/static/js/2.c743f95d.chunk.js.map",
+    "static/js/2.abbd717b.chunk.js": "/watchnet-project/static/js/2.abbd717b.chunk.js",
+    "static/js/2.abbd717b.chunk.js.map": "/watchnet-project/static/js/2.abbd717b.chunk.js.map",
     "index.html": "/watchnet-project/index.html",
-    "precache-manifest.d0fd57609cf4e0dfe0ab34fc3df60a62.js": "/watchnet-project/precache-manifest.d0fd57609cf4e0dfe0ab34fc3df60a62.js",
+    "precache-manifest.a13e85d3ad34045e8f1541ecabc387ce.js": "/watchnet-project/precache-manifest.a13e85d3ad34045e8f1541ecabc387ce.js",
     "service-worker.js": "/watchnet-project/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/watchnet-project/static/css/2.266e55a5.chunk.css.map"
   }

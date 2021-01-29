@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/watchnet-project/precache-manifest.d0fd57609cf4e0dfe0ab34fc3df60a62.js"
+  "/watchnet-project/precache-manifest.a13e85d3ad34045e8f1541ecabc387ce.js"
 );
 
 self.addEventListener('message', (event) => {
