@@ -4,4 +4,4 @@ It is not officially commercialized and probably never will be, but you can stil
 
 **NB:** The content spreading is STRICTLY forbidden, the project was created EXCLUSIVELY for educational and illustrative purposes. It was NOT made for profit. There is no actual copyrighted video within this portal.
 
-You can get to the web app [here](https://warcreed.github.io/watchnet-project "Watchnet").
+You can get to the web app [here](https://wredan.github.io/watchnet-project "Watchnet").
